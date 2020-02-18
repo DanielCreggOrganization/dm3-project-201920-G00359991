@@ -27,7 +27,9 @@
             
             <footer>
             <p>Posted by: Admin</p>
-            <p>Contact information: <a href="mailto:retrogames@gmail.com">retrogames@gmail.com</a>.</p>
+            <p>Contact information: <a href="mailto:RetroGames@gmail.com">RetroGames@gmail.com</a>.</p>
+            <p>Authorship information: <a href="About.html">Visit our About page!</a>.</p>
+            <p>Copyright information: <a href="About.html">Visit our About page!</a>.</p>
             </footer>
     </body>
 </html>
