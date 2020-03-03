@@ -13,11 +13,11 @@
     <body>
 
     <div class="topnav">
-      <a class="active" href="#home">Home</a>
-      <a href="#about">About</a>
-      <a href="#gamesonsale">Games on sale</a>
-      <a href="#checkout">Checkout</a>
-      <a href="#contact">Contact</a>
+      <a class="active" href="#index.php">Home</a>
+      <a href="#about.html">About</a>
+      <a href="#gamesonsale.html">Games on sale</a>
+      <a href="#checkout.html">Checkout</a>
+      <a href="#contact.html">Contact</a>
     </div>
             <h1>Retro Games</h1>
             <p id=demo>A store for old-school gamers!</p>
