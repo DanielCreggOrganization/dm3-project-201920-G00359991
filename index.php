@@ -21,21 +21,21 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="index.php">Home
+            <a class="nav-link" href="#index.php">Home
               <span class="sr-only">(current)</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" HREF = "about.html">About</A>
+            <a class="nav-link" HREF = "#about.html">About</A>
           </li>
           <li class="nav-item">
-            <a class="nav-link" HREF = "gamesonsale.html">Games on Sale</A>
+            <a class="nav-link" HREF = "#gamesonsale.html">Games on Sale</A>
           </li>
           <li class="nav-item">
-            <a class="nav-link" HREF = "checkout.html">Checkout</A>
+            <a class="nav-link" HREF = "#checkout.html">Checkout</A>
           </li>
 		  <li class="nav-item">
-            <a class="nav-link" HREF = "contact.html">Contact</A>
+            <a class="nav-link" HREF = "#contact.html">Contact</A>
 			
           </li>
         </ul>
