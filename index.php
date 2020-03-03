@@ -43,7 +43,6 @@
     </div>
   </nav>
 
-            <h1>Retro Games</h1>
             <p id=demo>A store for old-school gamers!</p>
             
             <script type="text/javascript" src="myscripts.js"></script>
