@@ -45,9 +45,8 @@
 
             <h1>Retro Games</h1>
             <p id=demo>A store for old-school gamers!</p>
-            <?php echo "<p>Hello world PHP</p>" ; ?>
+            
             <script type="text/javascript" src="myscripts.js"></script>
-            <button onclick="myFunction();">Click Me to turn text blue</button>
             
             <footer>
             <p>Posted by: Admin</p>
