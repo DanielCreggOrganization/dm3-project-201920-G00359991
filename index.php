@@ -63,7 +63,7 @@
       <img src="img/crash.jpeg" alt="Crash Bandicoot">
     </div>
     <div class="carousel-item">
-      <img src="ny.jpg" alt="New York">
+      <img src="img/spyro.jpg" alt="Spyro">
     </div>
   </div>
 

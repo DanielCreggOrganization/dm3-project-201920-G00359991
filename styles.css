@@ -60,3 +60,9 @@ footer{
     display: block;
 }
 
+.gmit
+{
+  width: 100%;
+  z-index: 0;
+}
+
