@@ -57,10 +57,10 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="la.jpg" alt="Los Angeles">
+      <img src="img/tomb_raider.jpg" alt="Tomb Raider">
     </div>
     <div class="carousel-item">
-      <img src="chicago.jpg" alt="Chicago">
+      <img src="img/crash.jpeg" alt="Crash Bandicoot">
     </div>
     <div class="carousel-item">
       <img src="ny.jpg" alt="New York">
