@@ -10,7 +10,7 @@
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 		<script type="text/javascript" src="js/jquery.shop.js"></script>
     </head>
-    <body>
+    <body style="background-color:grey">
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
     <div class="container">
@@ -21,21 +21,21 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#index.php">Home
+            <a class="nav-link" href="index.php">Home
               <span class="sr-only">(current)</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" HREF = "#about.html">About</A>
+            <a class="nav-link" HREF = "about.html">About</A>
           </li>
           <li class="nav-item">
-            <a class="nav-link" HREF = "#gamesonsale.html">Games on Sale</A>
+            <a class="nav-link" HREF = "gamesonsale.html">Games on Sale</A>
           </li>
           <li class="nav-item">
-            <a class="nav-link" HREF = "#checkout.html">Checkout</A>
+            <a class="nav-link" HREF = "checkout.html">Checkout</A>
           </li>
 		  <li class="nav-item">
-            <a class="nav-link" HREF = "#contact.html">Contact</A>
+            <a class="nav-link" HREF = "contact.html">Contact</A>
 			
           </li>
         </ul>
@@ -44,6 +44,38 @@
   </nav>
 
             <p id=demo>A store for old-school gamers!</p>
+
+            <div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="la.jpg" alt="Los Angeles">
+    </div>
+    <div class="carousel-item">
+      <img src="chicago.jpg" alt="Chicago">
+    </div>
+    <div class="carousel-item">
+      <img src="ny.jpg" alt="New York">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+
+</div>
             
             <script type="text/javascript" src="myscripts.js"></script>
             
