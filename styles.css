@@ -1,3 +1,7 @@
+.zoom:hover{
+    transform: scale(0.5);
+}
+
 .topnav {
   background-color: #333;
   overflow: hidden;
