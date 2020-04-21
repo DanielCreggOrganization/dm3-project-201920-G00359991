@@ -14,28 +14,28 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
     <div class="container">
-      <a class="navbar-brand" href="index.html"></a><img class="img-responsive2" src="/mysql/img/mylogo.png"></a>
+      <a class="navbar-brand" href="index.php"></a><img class="img-responsive2" src="/mysql/img/mylogo.png"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="index.html">Home
+            <a class="nav-link" href="index.php">Home
               <span class="sr-only">(current)</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" HREF = "about.html">About</A>
+            <a class="nav-link" HREF = "about.php">About</A>
           </li>
           <li class="nav-item">
-            <a class="nav-link" HREF = "gamesonsale.html">Games on Sale</A>
+            <a class="nav-link" HREF = "gamesonsale.php">Games on Sale</A>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" HREF = "checkout.html">Checkout</A>
+            <a class="nav-link" HREF = "checkout.php">Checkout</A>
           </li>
 		  <li class="nav-item">
-            <a class="nav-link" HREF = "contact.html">Contact</A>
+            <a class="nav-link" HREF = "contact.php">Contact</A>
 			
           </li>
         </ul>
