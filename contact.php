@@ -44,7 +44,7 @@
   </nav>
 
 <div class="container">
-  <form action="action_page.php">
+  <form action="mail.php" method="POST">
 
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
@@ -60,8 +60,8 @@
       <option value="ireland">Ireland</option>
     </select>
 
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    <label for="message">Message</label>
+    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
 
     <input type="submit" value="Submit">
 
