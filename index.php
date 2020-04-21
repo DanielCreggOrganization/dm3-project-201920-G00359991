@@ -174,7 +174,7 @@ $(document).ready(function(){
             
             <footer>
             <p>Posted by: Admin</p>
-            <p>Contact information: <a href="mailto:RetroGames@gmail.com">RetroGames@gmail.com</a>.</p>
+            <p>Contact information: <a href="mailto:retrogameshelp37@gmail.com">RetroGames@gmail.com</a>.</p>
             <p>Authorship information: <a href="about.html">Visit our About page!</a>.</p>
             <p>Copyright information: <a href="about.html">Visit our About page!</a>.</p>
             </footer>
