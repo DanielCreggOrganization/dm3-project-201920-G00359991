@@ -8,7 +8,7 @@
 		<link rel="stylesheet" href="css/style1.css" media="screen" type="text/css" />
 			<link rel="stylesheet" type+"text/css" href="homepage.css">
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-		<script type="text/javascript" src="js/jquery.shop.js"></script>
+		<script type="text/javascript" src="/mysql/js/jquery.shop.js"></script>
     </head>
     <body style:background-color:grey>
 
