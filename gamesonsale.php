@@ -53,7 +53,7 @@
 								<img src="/mysql/img/tomb_raider.jpg" style="width:150px; height:150px;" alt="" />
 							</div>
 							<div class="product-description" data-name="Tomb Raider" data-price="4.99">
-								<h3 class="product-name" style="color: black;">Tomb Raider</h3>
+								<h3 class="product-name" style="color: red;">Tomb Raider</h3>
 								<p class="product-price" style="background-color: grey">&euro; 4.99</p>
 								<form class="add-to-cart" action="cart.php" method="get">
 									<div>
@@ -69,7 +69,7 @@
 								<img src="/mysql/img/crash.png" style="width:150px; height:150px;" alt="" />
 							</div>
 							<div class="product-description" data-name="Crash Bandicoot" data-price="5.99">
-								<h3 class="product-name" style="color: black;" >Crash Bandicoot</h3>
+								<h3 class="product-name" style="color: red;" >Crash Bandicoot</h3>
 								<p class="product-price" style="background-color: grey">&euro; 5.99</p>
 								<form class="add-to-cart" action="cart.php" method="get">
 									<div>
@@ -86,7 +86,7 @@
 								<img src="/mysql/img/spyro.jpg" style="width:150px; height:150px;" alt="" />
 							</div>
 							<div class="product-description" data-name="Spyro" data-price="5.99">
-								<h3 class="product-name" style="color: black;">Spyro</h3>
+								<h3 class="product-name" style="color: red;">Spyro</h3>
 								<p class="product-price" style="background-color: grey">&euro; 5.99</p>
 								<form class="add-to-cart" action="cart.php" method="get">
 									<div>
