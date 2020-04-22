@@ -44,28 +44,16 @@
   </nav>
 
 <div class="container">
-  <form action="mail.php" method="POST">
+  <form method="post" name="myemailform" action="mail.php">
 
-    <label for="firstname">First Name</label>
-    <input type="text" id="firstname" name="firstname" placeholder="Your name..">
+Enter Name:	<input type="text" name="name">
 
-    <label for="lastname">Last Name</label>
-    <input type="text" id="lastname" name="lastname" placeholder="Your last name..">
+Enter Email Address:	<input type="text" name="email">
 
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="australia">Australia</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-      <option value="ireland">Ireland</option>
-    </select>
+Enter Message:	<textarea name="message"></textarea>
 
-    <label for="message">Message</label>
-    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-
-  </form>
+<input type="submit" value="Send Form">
+</form>
 </div>
 </body>
 </html>

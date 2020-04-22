@@ -1,12 +1,28 @@
-<?php 
-$firstname = $_POST['firstname'];
-$lastname = $_POST['lastname'];
-$country = $_POST['country'];
-$message = $_POST['message'];
-$formcontent="From: $firstname, $lastname \n Message: $message";
-$recipient = "retrogameshelp37@gmail.com";
-$subject = "Contact Form";
-$mailheader = "From: $email \r\n";
-mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
-echo "Thank You!";
+<?php
+
+  $name = $_POST['name'];
+  $visitor_email = $_POST['email'];
+  $message = $_POST['message'];
+  
+  $email_from = 'retrogameshelp37@gmail.com';
+
+	$email_subject = "New Form submission";
+
+	$email_body = "You have received a new message from the user $name.\n".
+                            "Here is the message:\n $message".
+
+    $to = "retrogameshelp37@gmail.com";
+
+  $headers = "From: $email_from \r\n";
+
+  $headers .= "Reply-To: $visitor_email \r\n";
+
+if (mail($to,$email_subject,$email_body,$headers))
+{
+echo "Message accepted";
+}
+else
+{
+echo "Error: Message not accepted";
+}
 ?>
