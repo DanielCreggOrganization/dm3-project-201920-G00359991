@@ -5,7 +5,7 @@
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-		<link rel="stylesheet" href="css/style1.css" media="screen" type="text/css" />
+		<link rel="stylesheet" href="style2.css" media="screen" type="text/css" />
 			<link rel="stylesheet" type+"text/css" href="homepage.css">
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 		<script type="text/javascript" src="/mysql/js/jquery.shop.js"></script>
