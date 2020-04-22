@@ -11,7 +11,9 @@
 		<script type="text/javascript" src="/mysql/js/jquery.shop.js"></script>
     </head>
     <body style:background-color:grey>
-
+    
+    <div id="site">
+    
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
     <div class="container">
       <a class="navbar-brand" href="index.php"><img class="img-responsive2" src="/mysql/img/mylogo.png"></a>
@@ -53,7 +55,7 @@
 							<div class="product-description" data-name="Tomb Raider" data-price="4.99">
 								<h3 class="product-name" style="color: black;">Tomb Raider</h3>
 								<p class="product-price" style="background-color: grey">&euro; 4.99</p>
-								<form class="add-to-cart" action="cart.html" method="get">
+								<form class="add-to-cart" action="cart.php" method="get">
 									<div>
 										<label for="qty-1" style="color: grey">Quantity</label>
 										<input type="text" name="qty-1" id="qty-1" class="qty" value="1" />
@@ -69,7 +71,7 @@
 							<div class="product-description" data-name="Crash Bandicoot" data-price="5.99">
 								<h3 class="product-name" style="color: black;" >Crash Bandicoot</h3>
 								<p class="product-price" style="background-color: grey">&euro; 5.99</p>
-								<form class="add-to-cart" action="cart.html" method="get">
+								<form class="add-to-cart" action="cart.php" method="get">
 									<div>
 										<label for="qty-2" style="color: grey">Quantity</label>
 										<input type="text" name="qty-2" id="qty-2" class="qty" value="1" />
@@ -86,7 +88,7 @@
 							<div class="product-description" data-name="Spyro" data-price="5.99">
 								<h3 class="product-name" style="color: black;">Spyro</h3>
 								<p class="product-price" style="background-color: grey">&euro; 5.99</p>
-								<form class="add-to-cart" action="cart.html" method="get">
+								<form class="add-to-cart" action="cart.php" method="get">
 									<div>
 										<label for="qty-3" style="color: grey">Quantity</label>
 										<input type="text" style="color: black" name="qty-3" id="qty-3" class="qty" value="1" />

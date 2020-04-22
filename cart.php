@@ -16,7 +16,7 @@
 	</header>
 	<div id="content">
 		<h1>Your Shopping Cart</h1>
-		<form id="shopping-cart" action="cart.html" method="get">
+		<form id="shopping-cart" action="cart.php" method="get">
 			<table class="shopping-cart">
 			  <thead>
 				<tr>
