@@ -155,7 +155,7 @@ label {
 }
 
 .btn {
-  background-color: #4CAF50;
+  background-color: red;
   color: white;
   padding: 12px;
   margin: 10px 0;
@@ -167,7 +167,7 @@ label {
 }
 
 .btn:hover {
-  background-color: black;
+  background-color: white;
 }
 
 span.price {
