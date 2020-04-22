@@ -72,7 +72,7 @@
 			</p>
 		 </div>
 		 
-		 <form action="order.html" method="get" id="checkout-order-form">
+		 <form action="order.php" method="get" id="checkout-order-form">
 		 	<h2>Your Details</h2>
 		 	
 		 	<fieldset id="fieldset-billing">
