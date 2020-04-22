@@ -64,7 +64,7 @@
 						</li>
 						<li>
 							<div class="product-image">
-								<img src="/mysql/img/crash.jpeg" style="width:150px; height:150px;" alt="" />
+								<img src="/mysql/img/crash.png" style="width:150px; height:150px;" alt="" />
 							</div>
 							<div class="product-description" data-name="Crash Bandicoot" data-price="5.99">
 								<h3 class="product-name" style="color: black;" >Crash Bandicoot</h3>
