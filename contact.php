@@ -46,13 +46,15 @@
 <div class="container">
   <form method="post" name="myemailform" action="mail.php">
 
-Enter Name:	<input type="text" name="name">
+Enter Name:	<input type="text" name="name" placeholder="Full name">
 
-Enter Email Address:	<input type="text" name="email">
+Enter Email Address:	<input type="text" name="email" placeholder="Your e-mail">
 
-Enter Message:	<textarea name="message"></textarea>
+Enter Subject: <input type="text" name="subject" placeholder="Subject">
 
-<input type="submit" value="Send Form">
+Enter Message:	<textarea name="message" placeholder="Message"></textarea>
+
+<input type="submit" name="submit">
 </form>
 </div>
 </body>

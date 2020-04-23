@@ -1,28 +1,16 @@
 <?php
 
-  $name = $_POST['name'];
-  $visitor_email = $_POST['email'];
-  $message = $_POST['message'];
-  
-  $email_from = 'retrogameshelp37@gmail.com';
+ if (isset($_POST['submit'])){
+     $name = $_POST['name'];
+     $subject = $_POST['subject'];
+     $mailFrom = $_POST['mail'];
+     $message = $_POST['message'];
+     
+     $mailTo = "daniel.oreilly4@hotmail.com";
+     $headers = "From: ".$mailFrom;
+     $txt = "You have received an e-mail from ".$name.".\n\n".$message;
 
-	$email_subject = "New Form submission";
-
-	$email_body = "You have received a new message from the user $name.\n".
-                            "Here is the message:\n $message".
-
-    $to = "retrogameshelp37@gmail.com";
-
-  $headers = "From: $email_from \r\n";
-
-  $headers .= "Reply-To: $visitor_email \r\n";
-
-if (mail($to,$email_subject,$email_body,$headers))
-{
-echo "Message accepted";
-}
-else
-{
-echo "Error: Message not accepted";
-}
+     mail($mailTo, $subject, $txt, $headers);
+     header("Location: contact.php?mailsend");
+ }
 ?>
