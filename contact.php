@@ -31,9 +31,6 @@
           <li class="nav-item">
             <a class="nav-link" HREF = "gamesonsale.php">Games on Sale</A>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" HREF = "checkout.php">Checkout</A>
-          </li>
 		  <li class="nav-item active">
             <a class="nav-link" HREF = "contact.php">Contact</A>
 			

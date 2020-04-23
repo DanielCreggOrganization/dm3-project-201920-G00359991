@@ -85,9 +85,6 @@ if( isset($_SESSION['user_id']) ){
           <li class="nav-item">
             <a class="nav-link" HREF = "gamesonsale.php">Games on Sale</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" HREF = "checkout.php">Checkout</a>
-          </li>
 		  <li class="nav-item">
             <a class="nav-link" HREF = "contact.php">Contact</a>
           </li>
