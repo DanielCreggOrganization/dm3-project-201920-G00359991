@@ -44,5 +44,5 @@
 
   <h1>About Us Page</h1>
   <img src="/mysql/img/gmit.jpg" alt="GMIT" class="gmit">
-  <p style="text-align:centre;">We are Retro Games, a company based out of Galway which specialises in selling old-school playstation games from the 1990's and early 2000's. We chose Galway as our base of operations to sell our wares because we knew the city well, and the people around</p>
+  <p style="text-align:centre;">We are Retro Games, a company based out of Galway which specialises in selling old-school playstation games from the 1990's and early 2000's. We chose Galway as our base of operations to sell our wares because we knew the city well, and the people around here were very nice and welcoming to us and our business. RetroGames was started up by it's founder, Mr. Billy O'Reilly, who is an avid gamer himself, but one who is more into old-school titles than more modern ones. Games like classic Tomb Raider or Crash Bandicoot, which are currently sold here by us rather than the flashier games of the current decade like God Of War or Grand Theft Auto V.</p>
 </div>
