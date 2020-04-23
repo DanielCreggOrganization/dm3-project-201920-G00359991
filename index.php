@@ -103,25 +103,67 @@ if( isset($_SESSION['user_id']) ){
       <li class="item1 active"></li>
       <li class="item2"></li>
       <li class="item3"></li>
+      <li class="item4"></li>
+      <li class="item5"></li>
+      <li class="item6"></li>
+      <li class="item7"></li>
+      <li class="item8"></li>
+      <li class="item9"></li>
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="/mysql/img/tomb_raider.jpg" alt="tomb raider" width="460" height="345">
+        <a href="https://en.wikipedia.org/wiki/Tomb_Raider"><img src="/mysql/img/tomb_raider.jpg" alt="tomb raider" width="460" height="345"></a>
         <div class="carousel-caption">
         </div>
       </div>
 
       <div class="item">
-        <img src="/mysql/img/crash.png" alt="crash" width="460" height="345">
+        <a href="https://en.wikipedia.org/wiki/Tomb_Raider_II"><img src="/mysql/img/tomb_raider2.png" alt="tomb raider 2" width="460" height="345"></a>
+        <div class="carousel-caption">
+        </div>
+      </div>
+
+      <div class="item">
+        <a href="https://en.wikipedia.org/wiki/Crash_Bandicoot"><img src="/mysql/img/crash.png" alt="crash" width="460" height="345"></a>
+        <div class="carousel-caption">
+        </div>
+      </div>
+
+      <div class="item">
+        <a href="https://en.wikipedia.org/wiki/Crash_Bandicoot_2:_Cortex_Strikes_Back"><img src="/mysql/img/crash2.jpg" alt="crash 2" width="460" height="345"></a>
+        <div class="carousel-caption">
+        </div>
+      </div>
+
+      <div class="item">
+        <a href="https://en.wikipedia.org/wiki/Crash_Bandicoot:_Warped"><img src="/mysql/img/crash3.jpg" alt="crash 3" width="460" height="345"></a>
         <div class="carousel-caption">
         </div>
       </div>
     
       <div class="item">
-        <img src="/mysql/img/spyro.jpg" alt="spyro" width="460" height="345">
+        <a href="https://en.wikipedia.org/wiki/Spyro"><img src="/mysql/img/spyro.jpg" alt="spyro" width="460" height="345"></a>
+        <div class="carousel-caption">
+        </div>
+      </div>
+
+      <div class="item">
+        <a href="https://en.wikipedia.org/wiki/Resident_Evil"><img src="/mysql/img/res1.png" alt="res 1" width="460" height="345"></a>
+        <div class="carousel-caption">
+        </div>
+      </div>
+
+      <div class="item">
+        <a href="https://en.wikipedia.org/wiki/Resident_Evil_2"><img src="/mysql/img/res2.png" alt="res 2" width="460" height="345"></a>
+        <div class="carousel-caption">
+        </div>
+      </div>
+
+      <div class="item">
+        <a href="https://en.wikipedia.org/wiki/Resident_Evil_3:_Nemesis"><img src="/mysql/img/res3.jpg" alt="res 3" width="460" height="345"></a>
         <div class="carousel-caption">
         </div>
       </div>
@@ -154,6 +196,24 @@ $(document).ready(function(){
   });
   $(".item3").click(function(){
     $("#myCarousel").carousel(2);
+  });
+  $(".item4").click(function(){
+    $("#myCarousel").carousel(3);
+  });
+  $(".item5").click(function(){
+    $("#myCarousel").carousel(4);
+  });
+  $(".item6").click(function(){
+    $("#myCarousel").carousel(5);
+  });
+  $(".item7").click(function(){
+    $("#myCarousel").carousel(6);
+  });
+  $(".item8").click(function(){
+    $("#myCarousel").carousel(7);
+  });
+  $(".item9").click(function(){
+    $("#myCarousel").carousel(8);
   });
  
     
