@@ -98,6 +98,102 @@
 							</div>
 						</li>
 
+                            <div class="product-image">
+								<img src="/mysql/img/tomb_raider2.png" style="width:150px; height:150px;" alt="" />
+							</div>
+							<div class="product-description" data-name="Tomb Raider 2" data-price="4.99">
+								<h3 class="product-name" style="color: red;">Tomb Raider 2</h3>
+								<p class="product-price" style="background-color: grey">&euro; 4.99</p>
+								<form class="add-to-cart" action="cart.php" method="get">
+									<div>
+										<label for="qty-4" style="color: grey">Quantity</label>
+										<input type="text" style="color: black" name="qty-4" id="qty-4" class="qty" value="1" />
+									</div>
+									<p><input type="submit" value="Add to cart" class="btn" style="color:black;" /></p>
+								</form>
+							</div>
+						</li>
+
+                            <div class="product-image">
+								<img src="/mysql/img/crash2.jpg" style="width:150px; height:150px;" alt="" />
+							</div>
+							<div class="product-description" data-name="Crash 2" data-price="4.99">
+								<h3 class="product-name" style="color: red;">Crash Bandicoot 2</h3>
+								<p class="product-price" style="background-color: grey">&euro; 4.99</p>
+								<form class="add-to-cart" action="cart.php" method="get">
+									<div>
+										<label for="qty-5" style="color: grey">Quantity</label>
+										<input type="text" style="color: black" name="qty-5" id="qty-5" class="qty" value="1" />
+									</div>
+									<p><input type="submit" value="Add to cart" class="btn" style="color:black;" /></p>
+								</form>
+							</div>
+						</li>
+
+                        <div class="product-image">
+								<img src="/mysql/img/crash3.jpg" style="width:150px; height:150px;" alt="" />
+							</div>
+							<div class="product-description" data-name="Crash 3" data-price="4.99">
+								<h3 class="product-name" style="color: red;">Crash Bandicoot 3</h3>
+								<p class="product-price" style="background-color: grey">&euro; 4.99</p>
+								<form class="add-to-cart" action="cart.php" method="get">
+									<div>
+										<label for="qty-6" style="color: grey">Quantity</label>
+										<input type="text" style="color: black" name="qty-6" id="qty-6" class="qty" value="1" />
+									</div>
+									<p><input type="submit" value="Add to cart" class="btn" style="color:black;" /></p>
+								</form>
+							</div>
+						</li>
+
+                        <div class="product-image">
+								<img src="/mysql/img/res1.png" style="width:150px; height:150px;" alt="" />
+							</div>
+							<div class="product-description" data-name="Resident Evil" data-price="4.99">
+								<h3 class="product-name" style="color: red;">Resident Evil</h3>
+								<p class="product-price" style="background-color: grey">&euro; 4.99</p>
+								<form class="add-to-cart" action="cart.php" method="get">
+									<div>
+										<label for="qty-7" style="color: grey">Quantity</label>
+										<input type="text" style="color: black" name="qty-7" id="qty-7" class="qty" value="1" />
+									</div>
+									<p><input type="submit" value="Add to cart" class="btn" style="color:black;" /></p>
+								</form>
+							</div>
+						</li>
+
+                        <div class="product-image">
+								<img src="/mysql/img/res2.png" style="width:150px; height:150px;" alt="" />
+							</div>
+							<div class="product-description" data-name="Resident Evil 2" data-price="4.99">
+								<h3 class="product-name" style="color: red;">Resident Evil 2</h3>
+								<p class="product-price" style="background-color: grey">&euro; 4.99</p>
+								<form class="add-to-cart" action="cart.php" method="get">
+									<div>
+										<label for="qty-8" style="color: grey">Quantity</label>
+										<input type="text" style="color: black" name="qty-8" id="qty-8" class="qty" value="1" />
+									</div>
+									<p><input type="submit" value="Add to cart" class="btn" style="color:black;" /></p>
+								</form>
+							</div>
+						</li>
+
+                        <div class="product-image">
+								<img src="/mysql/img/res3.jpg" style="width:150px; height:150px;" alt="" />
+							</div>
+							<div class="product-description" data-name="Resident Evil 3" data-price="4.99">
+								<h3 class="product-name" style="color: red;">Resident Evil 3</h3>
+								<p class="product-price" style="background-color: grey">&euro; 4.99</p>
+								<form class="add-to-cart" action="cart.php" method="get">
+									<div>
+										<label for="qty-9" style="color: grey">Quantity</label>
+										<input type="text" style="color: black" name="qty-9" id="qty-9" class="qty" value="1" />
+									</div>
+									<p><input type="submit" value="Add to cart" class="btn" style="color:black;" /></p>
+								</form>
+							</div>
+						</li>
+
   <!-- Optional JavaScript -->
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
