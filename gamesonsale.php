@@ -50,7 +50,7 @@
 					<ul>
 						<li>
 							<div class="product-image">
-								<img src="/mysql/img/tomb_raider.jpg" style="width:150px; height:150px;" alt="" />
+								<a href="https://www.youtube.com/watch?v=VkD8x9aItCs"><img src="/mysql/img/tomb_raider.jpg" style="width:150px; height:150px;" alt="" /></a>
 							</div>
 							<div class="product-description" data-name="Tomb Raider" data-price="4.99">
 								<h3 class="product-name" style="color: red;">Tomb Raider</h3>
@@ -66,7 +66,7 @@
 						</li>
 						<li>
 							<div class="product-image">
-								<img src="/mysql/img/crash.png" style="width:150px; height:150px;" alt="" />
+								<a href="https://www.youtube.com/watch?v=o6NPhKJcs9w"><img src="/mysql/img/crash.png" style="width:150px; height:150px;" alt="" /></a>
 							</div>
 							<div class="product-description" data-name="Crash Bandicoot" data-price="5.99">
 								<h3 class="product-name" style="color: red;" >Crash Bandicoot</h3>
@@ -83,7 +83,7 @@
 
 						<li>
 							<div class="product-image">
-								<img src="/mysql/img/spyro.jpg" style="width:150px; height:150px;" alt="" />
+								<a href="https://www.youtube.com/watch?v=DoCmdGpa6Kw"><img src="/mysql/img/spyro.jpg" style="width:150px; height:150px;" alt="" /></a>
 							</div>
 							<div class="product-description" data-name="Spyro" data-price="5.99">
 								<h3 class="product-name" style="color: red;">Spyro</h3>
@@ -99,7 +99,7 @@
 						</li>
 
                             <div class="product-image">
-								<img src="/mysql/img/tomb_raider2.png" style="width:150px; height:150px;" alt="" />
+								<a href="https://www.youtube.com/watch?v=zNaxTx_POK4"><img src="/mysql/img/tomb_raider2.png" style="width:150px; height:150px;" alt="" /></a>
 							</div>
 							<div class="product-description" data-name="Tomb Raider 2" data-price="4.99">
 								<h3 class="product-name" style="color: red;">Tomb Raider 2</h3>
@@ -115,7 +115,7 @@
 						</li>
 
                             <div class="product-image">
-								<img src="/mysql/img/crash2.jpg" style="width:150px; height:150px;" alt="" />
+								<a href="https://www.youtube.com/watch?v=r_TTrB0c3tc"><img src="/mysql/img/crash2.jpg" style="width:150px; height:150px;" alt="" /></a>
 							</div>
 							<div class="product-description" data-name="Crash 2" data-price="4.99">
 								<h3 class="product-name" style="color: red;">Crash Bandicoot 2</h3>
@@ -131,7 +131,7 @@
 						</li>
 
                         <div class="product-image">
-								<img src="/mysql/img/crash3.jpg" style="width:150px; height:150px;" alt="" />
+								<a href="https://www.youtube.com/watch?v=2CVp5Ro8GLg"><img src="/mysql/img/crash3.jpg" style="width:150px; height:150px;" alt="" /></a>
 							</div>
 							<div class="product-description" data-name="Crash 3" data-price="4.99">
 								<h3 class="product-name" style="color: red;">Crash Bandicoot 3</h3>
@@ -147,7 +147,7 @@
 						</li>
 
                         <div class="product-image">
-								<img src="/mysql/img/res1.png" style="width:150px; height:150px;" alt="" />
+								<a href="https://www.youtube.com/watch?v=-z9MKsGtL6M"><img src="/mysql/img/res1.png" style="width:150px; height:150px;" alt="" /></a>
 							</div>
 							<div class="product-description" data-name="Resident Evil" data-price="4.99">
 								<h3 class="product-name" style="color: red;">Resident Evil</h3>
@@ -163,7 +163,7 @@
 						</li>
 
                         <div class="product-image">
-								<img src="/mysql/img/res2.png" style="width:150px; height:150px;" alt="" />
+								<a href="https://www.youtube.com/watch?v=Q9zDCec0OuA"><img src="/mysql/img/res2.png" style="width:150px; height:150px;" alt="" /></a>
 							</div>
 							<div class="product-description" data-name="Resident Evil 2" data-price="4.99">
 								<h3 class="product-name" style="color: red;">Resident Evil 2</h3>
@@ -179,7 +179,7 @@
 						</li>
 
                         <div class="product-image">
-								<img src="/mysql/img/res3.jpg" style="width:150px; height:150px;" alt="" />
+								<a href="https://www.youtube.com/watch?v=4wlTtmr7TW8"><img src="/mysql/img/res3.jpg" style="width:150px; height:150px;" alt="" /></a>
 							</div>
 							<div class="product-description" data-name="Resident Evil 3" data-price="4.99">
 								<h3 class="product-name" style="color: red;">Resident Evil 3</h3>
